@@ -3,10 +3,10 @@
   top: 20px;
   text-align: center;
   width: 100%;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 1.5em;
   font-weight: bold;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 1);
 }
 
 .event-image {
