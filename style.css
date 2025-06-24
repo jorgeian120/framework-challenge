@@ -1,3 +1,22 @@
+.header {
+  position: absolute;
+  top: 20px;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.event-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
 body {
   margin: 0;
   padding: 0;
